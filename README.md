@@ -27,8 +27,8 @@ Insert a description of your grading scheme here! What are you looking for? What
 ### Point of Contact
 List all available mentors here.
 
-### Time Slots at the Booth
-List the expected times of availability at the booth here.
+### Mentor Availability
+List the expected availability of your mentors (phyiscal and on Discord)
 
 ### Prize
 Let the participants know what will be expecting the winning Team!
