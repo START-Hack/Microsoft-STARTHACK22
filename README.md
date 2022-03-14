@@ -43,20 +43,21 @@ Product Owner
 
 <img height="324" alt="image" src="https://user-images.githubusercontent.com/88054163/158150384-b3ebf466-0a53-42c9-aeee-c658e7e2ee7f.png">
 <br><b> Diodio Calloga</b><br>
-Hackathon Mentor
+Hackathon Mentor – Strategy
   </td>
   <td>
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/88054163/158151152-91ff23a0-f3e7-4d85-b538-01ad8dc96c9f.png">
    <br> <b> Gilda Fernandez-Concha </b><br>
-Hackathon Mentor
+Hackathon Mentor – Data Science 
   </td></tr></table>
 
 
 ### Mentor Availability
-Technical mentors are available via Discord:
+<b>Technical mentors are available via Discord:</b> <br>
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/88054163/158152860-50678935-9e6e-4808-9ed6-2a975ab95f82.png">
-**Ezi Ozoani**
-Computer Scientist and Tech Team Leader
+<br>
+<b>Ezi Ozoani</b> <br>
+Computer Scientist and Tech Team Leader 
 
 ### Prize
 Let the participants know what will be expecting the winning Team!
