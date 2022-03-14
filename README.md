@@ -33,12 +33,13 @@ Product Owner
   </td>
   <td>
 
-<img width="324" height="324" alt="image" src="https://user-images.githubusercontent.com/88054163/158150384-b3ebf466-0a53-42c9-aeee-c658e7e2ee7f.png">
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/88054163/158150384-b3ebf466-0a53-42c9-aeee-c658e7e2ee7f.png">
 <b> Diodio Calloga</b>
 Hackathon Mentor
   </td>
   <td>
-<img width="324" height="324" alt="image" src="https://user-images.githubusercontent.com/88054163/158151152-91ff23a0-f3e7-4d85-b538-01ad8dc96c9f.png">
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/88054163/158151152-91ff23a0-f3e7-4d85-b538-01ad8dc96c9f.png">
+  
     <b> Gilda Fernandez-Concha </b>
 Hackathon Mentor
   </td></tr></table>
