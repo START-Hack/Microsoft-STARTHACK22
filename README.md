@@ -7,19 +7,27 @@ What do you expect from the winning team?
 Are you planning on further developing this project after the START Hack?
 
 ### Case Pitch
-Insert your Pitch Video or Slides here
+<img width="1086" alt="image" src="https://user-images.githubusercontent.com/88054163/158152544-7c509cc1-3ddb-4e7b-ad07-afabe199748c.png">
 
 ### Deep Dive Slides
-Insert materials from your Deep Dives here
+We’re looking for these things: 
+-	A mobile-usable app prototype (web /native / PWA) with a good UX that focuses on the needs of people in vulnerable situations. 
+-	A Learning feature (e.g. like Duolingo) to learn about topics of social injustice and what to do in these situations, where to find help etc.
+-	A safe & secure approach to involve the broader community, share information 
+-	An engaging gamification approach (e.g. using an Avatar, Badges etc..) that motivates people to keep learning and educating themselves and share knowledge.
+-	A business model – e.g. how can content production, app development and operational costs be sustainably financed, given that the solution will be provided by a non-profit organisation for free to users?
+
+Ideally, we would love to see an working demo (web app or mobile), but teams can also decide focus more on the business model and UX e.g. with a clickable prototype (Figma etc.)
+
 
 ### Further Information
 Insert any further information about the hack case, the topic and related projects.
 Give as much context as possible, in order to give your coders a head start!
 
 ### Resources
-List all relevant resources and tools here.
-Also links to potentially relevant databases, tools, software applications can be helpful to give coders more stuff to work with and be creative.
-You want the participants to spend as much time as possible focusing on the more creative and complex aspects of your challenge.
+We encourage you to use the Microsoft Azure Cloud services and Open Source libraries of your choice for the technical prototype. You can use any language & popular tech stack that you feel comfortable e.g. Python, JS/TS, Java, C# or APIs, as long as it will be technically possible to deploy it on the Azure Cloud later.
+Microsoft will provide a limited amount of free Azure Credits for the event.
+
 
 ### Judging Criteria
 Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
@@ -45,7 +53,10 @@ Hackathon Mentor
 
 
 ### Mentor Availability
-List the expected availability of your mentors (phyiscal and on Discord)
+Technical mentors are available via Discord:
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/88054163/158152860-50678935-9e6e-4808-9ed6-2a975ab95f82.png">
+**Ezi Ozoani**
+Computer Scientist and Tech Team Leader
 
 ### Prize
 Let the participants know what will be expecting the winning Team!
