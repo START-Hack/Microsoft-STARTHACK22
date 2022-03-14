@@ -38,7 +38,7 @@ Insert a description of your grading scheme here! What are you looking for? What
 
 
 ### Mentor Availability
-<table border color="#FFFFFF"><tr><td>
+<table><tr><td>
   <img width="200" alt="image" src="https://user-images.githubusercontent.com/88054163/158151783-57c6ce27-9e39-4b8b-9969-9e9383b80e3a.png">
 <br>
 <b> Rhiana Spring</b><br>
