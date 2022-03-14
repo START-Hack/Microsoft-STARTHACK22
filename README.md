@@ -25,17 +25,21 @@ You want the participants to spend as much time as possible focusing on the more
 Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
 
 ### Point of Contact
-<img width="571" alt="image" src="https://user-images.githubusercontent.com/88054163/158150258-cc30d792-b065-4e69-9bee-2e14119308b5.png">
+<table><tr><td><img width="324" alt="image" src="https://user-images.githubusercontent.com/88054163/158150258-cc30d792-b065-4e69-9bee-2e14119308b5.png">
 **Rhiana Spring**
 Product Owner
+  </td>
+  <td>
 
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/88054163/158150384-b3ebf466-0a53-42c9-aeee-c658e7e2ee7f.png">
 **Diodio Calloga**
 Hackathon Mentor
-
-![Gilda ACT](https://user-images.githubusercontent.com/88054163/158150527-3b78f95b-1200-4eea-a47d-3e63ddc74d5b.jpg)
+  </td>
+  <td>
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/88054163/158151152-91ff23a0-f3e7-4d85-b538-01ad8dc96c9f.png">
 **Gilda Fernandez-Concha**
 Hackathon Mentor
+  </td></tr></table>
 
 
 ### Mentor Availability
