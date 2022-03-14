@@ -26,7 +26,7 @@ Insert a description of your grading scheme here! What are you looking for? What
 
 ### Point of Contact
 <table><tr><td>
-  <img width="324" height="324" alt="image" src="https://user-images.githubusercontent.com/88054163/158151783-57c6ce27-9e39-4b8b-9969-9e9383b80e3a.png">
+  <img width="324" alt="image" src="https://user-images.githubusercontent.com/88054163/158151783-57c6ce27-9e39-4b8b-9969-9e9383b80e3a.png">
 
 <b> Rhiana Spring</b>
 Product Owner
