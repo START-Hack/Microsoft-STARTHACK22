@@ -1,10 +1,11 @@
 # START Hack 2022 - Microsoft Case 
 
 ### Case Introduction
-Please give a short introduction to your case.
-What is the problem you are solving?
-What do you expect from the winning team?
-Are you planning on further developing this project after the START Hack?
+Help the team of Spring ACT – Action. Compassion. Technology. – empower people to take action and help eliminate global social injustices.
+
+Social injustice such as sexism are unfortunately part of the lives of many people every day. In order to change this, one key aspect is to empower people in vulnerable situations to understand what their options are and what they can do to get help and protect themselves.
+So how do we get the information to people in need, how do we motivate people to learn about their options, share them with others? How do we get content providers and associations to contribute to such a platform?
+
 
 ### Case Pitch
 <img width="1086" alt="image" src="https://user-images.githubusercontent.com/88054163/158152544-7c509cc1-3ddb-4e7b-ad07-afabe199748c.png">
@@ -33,6 +34,10 @@ Microsoft will provide a limited amount of free Azure Credits for the event.
 Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
 
 ### Point of Contact
+
+
+
+### Mentor Availability
 <table><tr><td>
   <img width="324" alt="image" src="https://user-images.githubusercontent.com/88054163/158151783-57c6ce27-9e39-4b8b-9969-9e9383b80e3a.png">
 <br>
@@ -50,10 +55,8 @@ Hackathon Mentor – Strategy
    <br> <b> Gilda Fernandez-Concha </b><br>
 Hackathon Mentor – Data Science 
   </td></tr></table>
-
-
-### Mentor Availability
-<b>Technical mentors are available via Discord:</b> <br>
+  <br>
+  <b>Technical mentors are available via Discord:</b> <br>
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/88054163/158152860-50678935-9e6e-4808-9ed6-2a975ab95f82.png">
 <br>
 <b>Ezi Ozoani</b> <br>
