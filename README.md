@@ -80,7 +80,7 @@ calloga[at]springact.org
   <br><br>
   ozoani[at]springact.org
   </td>
-    <td center="top"> <img width="200" alt="image" src="https://user-images.githubusercontent.com/88054163/158151152-91ff23a0-f3e7-4d85-b538-01ad8dc96c9f.png">
+    <td center="top"> <img width="215" alt="image" src="https://user-images.githubusercontent.com/88054163/158151152-91ff23a0-f3e7-4d85-b538-01ad8dc96c9f.png">
    <br> <b> Gilda Fernandez-Concha </b><br>
 Data Science & Strategy <br><br>
       <i>  Timzone: St. Gallen -6 hours (Peru) </i><br><br>
