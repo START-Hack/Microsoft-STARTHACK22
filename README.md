@@ -72,20 +72,8 @@ calloga[at]springact.org
   
   ### Technical Mentors via Discord:
   
-    
-<table class="images" width="100%"  style="border:0px solid white; width:100%;">
-    <tr style="border: 0px;">
-        <td width="33%" style="border:0px; width:33.33%">
-            <img src="https://user-images.githubusercontent.com/88054163/159171575-5ce7bcfb-a669-4148-a450-e3ca205d9659.png" />
-        </td>
-        <td width="33%" style="border:0px; width:33.33%">
-            <img src="https://user-images.githubusercontent.com/88054163/158151152-91ff23a0-f3e7-4d85-b538-01ad8dc96c9f.png" />
-        </td>
-    </tr>
-</table>
-    
   <br>
-<tr style="border: 0px;"><tr><td>
+<table border="0"><tr><td>
 <br> <img height="200" alt="image" src="https://user-images.githubusercontent.com/88054163/159171575-5ce7bcfb-a669-4148-a450-e3ca205d9659.png">
 <br><b>Ezi Ozoani</b> <br>
   Computer Scientist and <br>Tech Team Leader  <br>
