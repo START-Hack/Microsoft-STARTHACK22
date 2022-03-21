@@ -71,8 +71,7 @@ calloga[at]springact.org
   <br>
   
   ### Technical Mentors via Discord:
-  <br>
- <style>
+<style>
 table { border-collapse: collapse; }
 tr:nth-child(3) { border: solid thin; }
 <br> <img height="200" alt="image" src="https://user-images.githubusercontent.com/88054163/159171575-5ce7bcfb-a669-4148-a450-e3ca205d9659.png">
