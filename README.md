@@ -72,8 +72,9 @@ calloga[at]springact.org
   
   ### Technical Mentors via Discord:
   <br>
-<table>
-<tr style="outline: thin solid"><tr><td>
+ <style>
+table { border-collapse: collapse; }
+tr:nth-child(3) { border: solid thin; }
 <br> <img height="200" alt="image" src="https://user-images.githubusercontent.com/88054163/159171575-5ce7bcfb-a669-4148-a450-e3ca205d9659.png">
 <br><b>Ezi Ozoani</b> <br>
   Computer Scientist and <br>Tech Team Leader  <br>
@@ -86,7 +87,7 @@ calloga[at]springact.org
 Data Science & Strategy <br><br>
       <i>  Timzone: St. Gallen -6 hours (Peru) </i><br><br>
       fernandez-concha[at]springact.org
-  </td></tr></table>
+  </td></tr></style>
 
 ### Prize
 The winning team of our challenge will receive a Xiaomi 34' curved gaming monitor! A monitor that increases efficiency, reduces eye fatigue, and meets the professional needs of a wide range of jobs. With WQHD resolution, an 21:9 UltraWide screen, and impressive 1500R extreme curvature, you'll get transported to another gaming dimension. Experience a high 144Hz refresh rate,a long with AMD FreeSync Premium variable refresh rate technology that reduces screen tearing and makes your games ultra-smooth. This Curved Gaming monitor can display a theoretical maximum of 16.7 million true colours in rich colour depth, and the wide colour gamut of up to 121% sRGB shows exquisite colours in vivid detail. An outstanding colour performance creates life-like images that surrounds you, combined with the 1500R curved panoramic screen, it delivers a more immersive audio-visual entertainment experience. Choose how you like your viewing angle with tilt, swivel, and height adjustments a long with magnetic connectors, which make the monitor and stand look like one solid piece, while also making assembly easier.
