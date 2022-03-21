@@ -73,14 +73,14 @@ calloga[at]springact.org
 ### Technical Mentors via Discord:
 <br>
 <table border="0"><tr><td>
-<br> <img height="220" alt="image" style="border:none" src="https://user-images.githubusercontent.com/88054163/159171575-5ce7bcfb-a669-4148-a450-e3ca205d9659.png">
+<br> <img height="215" alt="image" style="border:none" src="https://user-images.githubusercontent.com/88054163/159171575-5ce7bcfb-a669-4148-a450-e3ca205d9659.png">
 <br><b>Ezi Ozoani</b> <br>
   Computer Scientist and <br>Tech Team Leader  <br>
     <i>  Timzone: St. Gallen -1 hour (Ireland) </i> 
   <br><br>
   ozoani[at]springact.org
   </td>
-    <td center="top"> <img width="215" alt="image" src="https://user-images.githubusercontent.com/88054163/158151152-91ff23a0-f3e7-4d85-b538-01ad8dc96c9f.png">
+    <td center="top"> <img width="200" alt="image" src="https://user-images.githubusercontent.com/88054163/158151152-91ff23a0-f3e7-4d85-b538-01ad8dc96c9f.png">
    <br> <b> Gilda Fernandez-Concha </b><br>
 Data Science & Strategy <br><br>
       <i>  Timzone: St. Gallen -6 hours (Peru) </i><br><br>
