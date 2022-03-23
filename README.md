@@ -9,15 +9,14 @@ Social injustice such as sexism are part of the lives of many people every day. 
 
 
 ### Case Pitch
-Help non-profit organization Spring ACT to create a sustainable business model and a solution prototype that will help peoplpe take concrete action in the face of injustice.
-We’re envisioning a gamified approach to deliver a personalised educational experience (think e.g. DuoLingo) that helps people to learn how to deal with everyday’s social injustice, such as how to best react to sexism, racism, as well as, fight the imposter syndrome.
-The solution should motivate individuals to keep studying the most relevant topics and “growing”, while being able to proudly share learning achievements and connect with a wider community.
-It's crucial to create a business model that generates sustainable revenue streams in order to fund development and operational costs of the solution. 
+If you choose to join our team, over the next 36 hours, you will work on building a sustainable solution prototype and business model of an app that individuals can use to learn how to respond to everyday social injustices.
+ 
+We’re envisioning a gamified approach to deliver a personalised educational experience  – think DuoLingo  – that helps people to learn how to react in the face of injustices, such as sexism, racism or even the imposter syndrome in their work life or everyday life. The solution should motivate individuals to keep studying the most relevant topics and to grow, while being able to proudly share learning achievements and connect with a wider community. It’s crucial to create a business model that generates sustainable revenue streams in order to fund development and operational costs of the solution.
 
 Other current projects of Spring ACT include "[Sophia](https://springact.org/sophia-chatbot/)" – the world's first chatbot empowering survivors of domestic violence; and "[Dots](https://springact.org/dots-legal-aid-app/)" – an alternative legal aid app.
  
-### Deep Dive Slides
-We’re looking for these things: 
+### Deep Dive 
+We’re looking for: 
 -	A mobile-usable app prototype (web / native / PWA) with a good UX that focuses on the needs of people in vulnerable situations. 
 -	A Learning feature (e.g. like Duolingo) to learn about topics of social injustice and what to do in these situations, where to find help etc.
 -	A safe & secure approach to involve the broader community, share information 
@@ -32,7 +31,7 @@ Our **VISION** is to empower people to take action and help eliminate global soc
 Our **MISSION** is to collaborate with partners across borders and industries to connect people in vulnerable situations to the resources they require.
 Our **PURPOSE** to provide assistance to those in need through innovative solutions. <br>
 
-Help us develop a new tool that fits into everyone's pocket and bag, so they are ready to fight day to day injustice at moment's notice.
+Help us develop a new tool that fits into your pocket, so you're ready to fight day to day injustice at a moment's notice.
 
 ### Resources
 We encourage you to use the Microsoft Azure Cloud services and Open Source libraries of your choice for the technical prototype. You can use any language & popular tech stack that you feel comfortable e.g. Python, JS/TS, Java, C# or APIs, as long as it will be technically possible to deploy it on the Azure Cloud later.
@@ -49,11 +48,13 @@ We will assess the solution on the basis of various areas:
 - Pitch quality (comprehensive, structured, engaging, inspiring-but-no-BS  etc…)
 - Working demo vs. Mockup (working demos always gets bonus points)
 
-### Point of Contact
-
-
+### Mentors
+<img width="777" alt="image" src="https://user-images.githubusercontent.com/88054163/159740720-9626644d-0515-4d97-82f3-8c18d35e868f.png">
 
 ### Mentor Availability on Site
+**Main Point of Contact**
+
+
 <table><tr><td>
   <img width="200" alt="image" src="https://user-images.githubusercontent.com/88054163/158151783-57c6ce27-9e39-4b8b-9969-9e9383b80e3a.png">
 <br>
@@ -67,7 +68,15 @@ spring[at]springact.org
 <br><b> Diodio Calloga</b><br>
 Hackathon Mentor – Strategy <br><br>
 calloga[at]springact.org
-  </td> </tr></table>
+  </td> 
+ <td>
+ <img height="200" alt="image" src="https://user-images.githubusercontent.com/88054163/159741795-24371e2a-87d7-4d58-af8b-a058be75f7a4.png">
+<br>
+Florian Georg <br>
+  Microsoft Point of Contact / Technical On-Site
+  <br><br>
+Florian.Georg[at]microsoft.com
+ </td> </tr></table>
   <br>
   
   ### Technical Mentors via Discord:
