@@ -1,6 +1,6 @@
 # Hacking Global Social Injustices
 <h2> The Microsoft & Spring ACT Case </h2>
-<img src="https://user-images.githubusercontent.com/88054163/159171923-fc65b5cf-8c7d-47d6-8d97-91bb6091dfdf.png"> <br>
+<img width="729" alt="image" src="https://user-images.githubusercontent.com/88054163/159748917-61451354-eaf4-490d-8d85-b741e5946904.png">
 
 ### Case Introduction
 Help the team of <a href="https://springact.org"> Spring ACT – Action. Compassion. Technology. – </a> empower people to take action and help eliminate global social injustices.
